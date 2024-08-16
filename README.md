@@ -3,24 +3,37 @@ I am a Web Developer.
 I love turning ideas into products.
 
 Check out my work tools below.
+
+Backend 
+
 - Node.js
 - NestJS
 - Express
+  
 FrontEnd
+
 - NextJS
 - React
 - HTML
 - CSS
+  
 Databases 
+
 - MySQL
 - MongoDB
 - Postgres
-Hosting 
+ 
+Hosting
+
 - AWS
 - Vercel
+  
 CI/CD
+
 - Docker
+  
 Version Control
+
 - Git
 - GitHub 
 
