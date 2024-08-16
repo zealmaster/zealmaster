@@ -1,8 +1,8 @@
 ### Hi there 👋
-In addition to the public project repositories here which are my personal projects, I have worked on the following, a delivery app, a multicurrency payment app, and I am currently working on a cryptocurrency exchange app.
+I am a Web Developer.
+I love turning ideas into products.
 
-I use the following technology stacks:
-
+Check out my work tools below.
 - Backend
 1. NodeJS
 2. NestJS
@@ -12,9 +12,15 @@ I use the following technology stacks:
 2. React
 3. HTML
 4. CSS
-- MySQL
-- MongoDB
+
+Databases
+. MySQL
+. MongoDB
+
+Hosting 
 - AWS
+- Vercel
+Containerization 
 - Docker
 
 <!--
