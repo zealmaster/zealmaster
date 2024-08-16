@@ -3,25 +3,26 @@ I am a Web Developer.
 I love turning ideas into products.
 
 Check out my work tools below.
-- Backend
-1. NodeJS
-2. NestJS
-3. Express
-- FrontEnd
-1. NextJS
-2. React
-3. HTML
-4. CSS
-
-Databases
-. MySQL
-. MongoDB
-
+- Node.js
+- NestJS
+- Express
+FrontEnd
+- NextJS
+- React
+- HTML
+- CSS
+Databases 
+- MySQL
+- MongoDB
+- Postgres
 Hosting 
 - AWS
 - Vercel
-Containerization 
+CI/CD
 - Docker
+Version Control
+- Git
+- GitHub 
 
 <!--
 **zealmaster/zealmaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
