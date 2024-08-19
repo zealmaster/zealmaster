@@ -1,8 +1,7 @@
-### Hi there 👋
-I am a Web Developer.
-I love turning ideas into products.
+### Hi there, 👋 I am Kingsley. 
+A Web Developer. Backend Engineer.
 
-Check out my work tools below.
+Full stack developer for the fun of it.
 
 Backend 
 
