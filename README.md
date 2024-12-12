@@ -8,6 +8,8 @@ Backend
 - Node.js
 - NestJS
 - Express
+- Socket.io
+- RESTful API
   
 FrontEnd
 
@@ -20,7 +22,6 @@ Databases
 
 - MySQL
 - MongoDB
-- Postgres
  
 Hosting
 
